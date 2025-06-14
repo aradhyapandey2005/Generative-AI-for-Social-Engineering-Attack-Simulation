@@ -1,0 +1,793 @@
+Prompt,Label,Message
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Funny fact Nobody teaches volcanoes 2 erupt, tsunamis 2 arise, hurricanes 2 sway aroundn no 1 teaches hw 2 choose a wife Natural disasters just happens""
+
+Label:
+ham",ham,"Funny fact Nobody teaches volcanoes 2 erupt, tsunamis 2 arise, hurricanes 2 sway aroundn no 1 teaches hw 2 choose a wife Natural disasters just happens"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I sent my scores to sophas and i had to do secondary application for a few schools. I think if you are thinking of applying, do a research on cost also. Contact joke ogunrinde, her school is one me the less expensive ones""
+
+Label:
+ham",ham,"I sent my scores to sophas and i had to do secondary application for a few schools. I think if you are thinking of applying, do a research on cost also. Contact joke ogunrinde, her school is one me the less expensive ones"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""We know someone who you know that fancies you. Call 09058097218 to find out who. POBox 6, LS15HB 150p""
+
+Label:
+spam",spam,"We know someone who you know that fancies you. Call 09058097218 to find out who. POBox 6, LS15HB 150p"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Only if you promise your getting out as SOON as you can. And you'll text me in the morning to let me know you made it in ok.""
+
+Label:
+ham",ham,Only if you promise your getting out as SOON as you can. And you'll text me in the morning to let me know you made it in ok.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Congratulations ur awarded either å£500 of CD gift vouchers & Free entry 2 our å£100 weekly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16""
+
+Label:
+spam",spam,Congratulations ur awarded either å£500 of CD gift vouchers & Free entry 2 our å£100 weekly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I'll text carlos and let you know, hang on""
+
+Label:
+ham",ham,"I'll text carlos and let you know, hang on"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""K.i did't see you.:)k:)where are you now?""
+
+Label:
+ham",ham,K.i did't see you.:)k:)where are you now?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""No message..no responce..what happend?""
+
+Label:
+ham",ham,No message..no responce..what happend?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Get down in gandhipuram and walk to cross cut road. Right side &lt;#&gt; street road and turn at first right.""
+
+Label:
+ham",ham,Get down in gandhipuram and walk to cross cut road. Right side &lt;#&gt; street road and turn at first right.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""You flippin your shit yet?""
+
+Label:
+ham",ham,You flippin your shit yet?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""For real tho this sucks. I can't even cook my whole electricity is out. And I'm hungry.""
+
+Label:
+ham",ham,For real tho this sucks. I can't even cook my whole electricity is out. And I'm hungry.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Free tones Hope you enjoyed your new content. text stop to 61610 to unsubscribe. help:08712400602450p Provided by tones2you.co.uk""
+
+Label:
+spam",spam,Free tones Hope you enjoyed your new content. text stop to 61610 to unsubscribe. help:08712400602450p Provided by tones2you.co.uk
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I'm wif him now buying tix lar...""
+
+Label:
+ham",ham,I'm wif him now buying tix lar...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Call me when u finish then i come n pick u.""
+
+Label:
+ham",ham,Call me when u finish then i come n pick u.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Dear how is chechi. Did you talk to her""
+
+Label:
+ham",ham,Dear how is chechi. Did you talk to her
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""What's up. Do you want me to come online?""
+
+Label:
+ham",ham,What's up. Do you want me to come online?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Were somewhere on Fredericksburg""
+
+Label:
+ham",ham,Were somewhere on Fredericksburg
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""URGENT! Your mobile was awarded a å£1,500 Bonus Caller Prize on 27/6/03. Our final attempt 2 contact U! Call 08714714011""
+
+Label:
+spam",spam,"URGENT! Your mobile was awarded a å£1,500 Bonus Caller Prize on 27/6/03. Our final attempt 2 contact U! Call 08714714011"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""When can Ì_ come out?""
+
+Label:
+ham",ham,When can Ì_ come out?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""K, if u bored up just come to my home..""
+
+Label:
+ham",ham,"K, if u bored up just come to my home.."
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Boy; I love u Grl: Hogolo Boy: gold chain kodstini Grl: Agalla Boy: necklace madstini Grl: agalla Boy: Hogli 1 mutai eerulli kodthini! Grl: I love U kano;-)""
+
+Label:
+ham",ham,Boy; I love u Grl: Hogolo Boy: gold chain kodstini Grl: Agalla Boy: necklace madstini Grl: agalla Boy: Hogli 1 mutai eerulli kodthini! Grl: I love U kano;-)
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""A bloo bloo bloo I'll miss the first bowl""
+
+Label:
+ham",ham,A bloo bloo bloo I'll miss the first bowl
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Yeah sure, give me a couple minutes to track down my wallet""
+
+Label:
+ham",ham,"Yeah sure, give me a couple minutes to track down my wallet"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""This is the 2nd time we have tried 2 contact u. U have won the å£750 Pound prize. 2 claim is easy, call 087187272008 NOW1! Only 10p per minute. BT-national-rate.""
+
+Label:
+spam",spam,"This is the 2nd time we have tried 2 contact u. U have won the å£750 Pound prize. 2 claim is easy, call 087187272008 NOW1! Only 10p per minute. BT-national-rate."
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""No it was cancelled yeah baby! Well that sounds important so i understand my darlin give me a ring later on this fone love Kate x""
+
+Label:
+ham",ham,No it was cancelled yeah baby! Well that sounds important so i understand my darlin give me a ring later on this fone love Kate x
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Its not the same here. Still looking for a job. How much do Ta's earn there.""
+
+Label:
+ham",ham,Its not the same here. Still looking for a job. How much do Ta's earn there.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Gud gud..k, chikku tke care.. sleep well gud nyt""
+
+Label:
+ham",ham,"Gud gud..k, chikku tke care.. sleep well gud nyt"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I'll reach in ard 20 mins ok...""
+
+Label:
+ham",ham,I'll reach in ard 20 mins ok...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Wat Ì_ doing now?""
+
+Label:
+ham",ham,Wat Ì_ doing now?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Done it but internet connection v slow and canÛ÷t send it. Will try again later or first thing tomo.""
+
+Label:
+ham",ham,Done it but internet connection v slow and canÛ÷t send it. Will try again later or first thing tomo.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Yup. Izzit still raining heavily cos i'm in e mrt i can't c outside.""
+
+Label:
+ham",ham,Yup. Izzit still raining heavily cos i'm in e mrt i can't c outside.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Hi I'm sue. I am 20 years old and work as a lapdancer. I love sex. Text me live - I'm i my bedroom now. text SUE to 89555. By TextOperator G2 1DA 150ppmsg 18+""
+
+Label:
+spam",spam,Hi I'm sue. I am 20 years old and work as a lapdancer. I love sex. Text me live - I'm i my bedroom now. text SUE to 89555. By TextOperator G2 1DA 150ppmsg 18+
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Can you pls send me that company name. In saibaba colany""
+
+Label:
+ham",ham,Can you pls send me that company name. In saibaba colany
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I can't speak, bcaz mobile have problem. I can listen you but you cann't listen my voice. So i calls you later.""
+
+Label:
+ham",ham,"I can't speak, bcaz mobile have problem. I can listen you but you cann't listen my voice. So i calls you later."
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Yes i think so. I am in office but my lap is in room i think thats on for the last few days. I didnt shut that down""
+
+Label:
+ham",ham,Yes i think so. I am in office but my lap is in room i think thats on for the last few days. I didnt shut that down
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Yeah it's jus rite...""
+
+Label:
+ham",ham,Yeah it's jus rite...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Hey mate. Spoke to the mag people. WeÛ÷re on.  the is deliver by the end of the month. Deliver on the 24th sept. Talk later. ""
+
+Label:
+ham",ham,Hey mate. Spoke to the mag people. WeÛ÷re on.  the is deliver by the end of the month. Deliver on the 24th sept. Talk later. 
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I know you mood off today""
+
+Label:
+ham",ham,I know you mood off today
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Alrite jod hows the revision goin? Keris bin doin a smidgin. N e way u wanna cum over after college?xx""
+
+Label:
+ham",ham,Alrite jod hows the revision goin? Keris bin doin a smidgin. N e way u wanna cum over after college?xx
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""see, i knew giving you a break a few times woul lead to you always wanting to miss curfew. I was gonna gibe you 'til one, but a MIDNIGHT movie is not gonna get out til after 2. You need to come home. You need to getsleep and, if anything, you need to b studdying ear training.""
+
+Label:
+ham",ham,"see, i knew giving you a break a few times woul lead to you always wanting to miss curfew. I was gonna gibe you 'til one, but a MIDNIGHT movie is not gonna get out til after 2. You need to come home. You need to getsleep and, if anything, you need to b studdying ear training."
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Lol ... I knew that .... I saw him in the dollar store""
+
+Label:
+ham",ham,Lol ... I knew that .... I saw him in the dollar store
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""We tried to call you re your reply to our sms for a video mobile 750 mins UNLIMITED TEXT free camcorder Reply or call now 08000930705 Del Thurs""
+
+Label:
+spam",spam,We tried to call you re your reply to our sms for a video mobile 750 mins UNLIMITED TEXT free camcorder Reply or call now 08000930705 Del Thurs
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Hey gals...U all wanna meet 4 dinner at nÌÂte? ""
+
+Label:
+ham",ham,Hey gals...U all wanna meet 4 dinner at nÌÂte? 
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Aft i finish my lunch then i go str down lor. Ard 3 smth lor. U finish ur lunch already?""
+
+Label:
+ham",ham,Aft i finish my lunch then i go str down lor. Ard 3 smth lor. U finish ur lunch already?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Y cant u try new invention to fly..i'm not joking.,""
+
+Label:
+ham",ham,"Y cant u try new invention to fly..i'm not joking.,"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""that would be good Û_ I'll phone you tomo lunchtime, shall I, to organise something?""
+
+Label:
+ham",ham,"that would be good Û_ I'll phone you tomo lunchtime, shall I, to organise something?"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""LOL that would be awesome payback.""
+
+Label:
+ham",ham,LOL that would be awesome payback.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""You'd like that wouldn't you? Jerk!""
+
+Label:
+ham",ham,You'd like that wouldn't you? Jerk!
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Yeah there's barely enough room for the two of us, x has too many fucking shoes. Sorry man, see you later""
+
+Label:
+ham",ham,"Yeah there's barely enough room for the two of us, x has too many fucking shoes. Sorry man, see you later"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""HMV BONUS SPECIAL 500 pounds of genuine HMV vouchers to be won. Just answer 4 easy questions. Play Now! Send HMV to 86688 More info:www.100percent-real.com""
+
+Label:
+spam",spam,HMV BONUS SPECIAL 500 pounds of genuine HMV vouchers to be won. Just answer 4 easy questions. Play Now! Send HMV to 86688 More info:www.100percent-real.com
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""He remains a bro amongst bros""
+
+Label:
+ham",ham,He remains a bro amongst bros
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Do you want a New Nokia 3510i colour phone DeliveredTomorrow? With 300 free minutes to any mobile + 100 free texts + Free Camcorder reply or call 08000930705""
+
+Label:
+spam",spam,Do you want a New Nokia 3510i colour phone DeliveredTomorrow? With 300 free minutes to any mobile + 100 free texts + Free Camcorder reply or call 08000930705
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""If you're not in my car in an hour and a half I'm going apeshit""
+
+Label:
+ham",ham,If you're not in my car in an hour and a half I'm going apeshit
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Cool, text me when you head out""
+
+Label:
+ham",ham,"Cool, text me when you head out"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""That's y i said it's bad dat all e gals know u... Wat u doing now?""
+
+Label:
+ham",ham,That's y i said it's bad dat all e gals know u... Wat u doing now?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I know girls always safe and selfish know i got it pa. Thank you. good night.""
+
+Label:
+ham",ham,I know girls always safe and selfish know i got it pa. Thank you. good night.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Ok.. ÌÏ finishing soon?""
+
+Label:
+ham",ham,Ok.. ÌÏ finishing soon?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""life alle mone,eppolum oru pole allalo""
+
+Label:
+ham",ham,"life alle mone,eppolum oru pole allalo"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""If i let you do this, i want you in the house by 8am.""
+
+Label:
+ham",ham,"If i let you do this, i want you in the house by 8am."
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Daddy will take good care of you :)""
+
+Label:
+ham",ham,Daddy will take good care of you :)
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Buy Space Invaders 4 a chance 2 win orig Arcade Game console. Press 0 for Games Arcade (std WAP charge) See o2.co.uk/games 4 Terms + settings. No purchase""
+
+Label:
+spam",spam,Buy Space Invaders 4 a chance 2 win orig Arcade Game console. Press 0 for Games Arcade (std WAP charge) See o2.co.uk/games 4 Terms + settings. No purchase
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Just do what ever is easier for you""
+
+Label:
+ham",ham,Just do what ever is easier for you
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""But i have to. I like to have love and arrange.""
+
+Label:
+ham",ham,But i have to. I like to have love and arrange.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""HI DARLIN I HOPE YOU HAD A NICE NIGHT I WISH I HAD COME CANT WAIT TO SEE YOU LOVE FRAN PS I WANT DIRTY ANAL SEX AND I WANT A 10 MAN GANG BANG""
+
+Label:
+ham",ham,HI DARLIN I HOPE YOU HAD A NICE NIGHT I WISH I HAD COME CANT WAIT TO SEE YOU LOVE FRAN PS I WANT DIRTY ANAL SEX AND I WANT A 10 MAN GANG BANG
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Goodmorning, Today i am late for  &lt;#&gt; min.""
+
+Label:
+ham",ham,"Goodmorning, Today i am late for  &lt;#&gt; min."
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""As per your request 'Maangalyam (Alaipayuthe)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune""
+
+Label:
+ham",ham,As per your request 'Maangalyam (Alaipayuthe)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I wish u were here. I feel so alone""
+
+Label:
+ham",ham,I wish u were here. I feel so alone
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Awesome question with a cute answer: Someone asked a boy \how is ur life?\"" . . He smiled &amp; answered: . . \""She is fine!\"" Gudnite""""
+
+Label:
+ham",ham,"Awesome question with a cute answer: Someone asked a boy \how is ur life?\"" . . He smiled &amp; answered: . . \""She is fine!\"" Gudnite"""
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Ur HMV Quiz cash-balance is currently å£500 - to maximize ur cash-in now send HMV1 to 86688 only 150p/msg""
+
+Label:
+spam",spam,Ur HMV Quiz cash-balance is currently å£500 - to maximize ur cash-in now send HMV1 to 86688 only 150p/msg
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""So wat's da decision?""
+
+Label:
+ham",ham,So wat's da decision?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""K.k:)advance happy pongal.""
+
+Label:
+ham",ham,K.k:)advance happy pongal.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Unless it's a situation where YOU GO GURL would be more appropriate""
+
+Label:
+ham",ham,Unless it's a situation where YOU GO GURL would be more appropriate
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Honeybee Said: *I'm d Sweetest in d World* God Laughed &amp; Said: *Wait,U Havnt Met d Person Reading This Msg* MORAL: Even GOD Can Crack Jokes! GM+GN+GE+GN:)""
+
+Label:
+ham",ham,"Honeybee Said: *I'm d Sweetest in d World* God Laughed &amp; Said: *Wait,U Havnt Met d Person Reading This Msg* MORAL: Even GOD Can Crack Jokes! GM+GN+GE+GN:)"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""THATåÕS ALRITE GIRL, U KNOW GAIL IS NEVA WRONG!!TAKE CARE SWEET AND DONåÕT WORRY.C U L8TR HUN!LOVE Yaxxx""
+
+Label:
+ham",ham,"THATåÕS ALRITE GIRL, U KNOW GAIL IS NEVA WRONG!!TAKE CARE SWEET AND DONåÕT WORRY.C U L8TR HUN!LOVE Yaxxx"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""WINNER!! As a valued network customer you have been selected to receivea å£900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.""
+
+Label:
+spam",spam,WINNER!! As a valued network customer you have been selected to receivea å£900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""There's someone here that has a year  &lt;#&gt;  toyota camry like mr olayiwola's own. Mileage is  &lt;#&gt; k.its clean but i need to know how much will it sell for. If i can raise the dough for it how soon after landing will it sell. Holla back.""
+
+Label:
+ham",ham,There's someone here that has a year  &lt;#&gt;  toyota camry like mr olayiwola's own. Mileage is  &lt;#&gt; k.its clean but i need to know how much will it sell for. If i can raise the dough for it how soon after landing will it sell. Holla back.
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Ma head dey swell oh. Thanks for making my day""
+
+Label:
+ham",ham,Ma head dey swell oh. Thanks for making my day
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Ok... Take ur time n enjoy ur dinner...""
+
+Label:
+ham",ham,Ok... Take ur time n enjoy ur dinner...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Sad story of a Man - Last week was my b'day. My Wife did'nt wish me. My Parents forgot n so did my Kids . I went to work. Even my Colleagues did not wish. As I entered my cabin my PA said, '' Happy B'day Boss !!''. I felt special. She askd me 4 lunch. After lunch she invited me to her apartment. We went there. She said,'' do u mind if I go into the bedroom for a minute ? '' ''OK'', I sed in a sexy mood. She came out 5 minuts latr wid a cake...n My Wife, My Parents, My Kidz, My Friends n My Colleagues. All screaming.. SURPRISE !! and I was waiting on the sofa.. ... ..... ' NAKED...!""
+
+Label:
+ham",ham,"Sad story of a Man - Last week was my b'day. My Wife did'nt wish me. My Parents forgot n so did my Kids . I went to work. Even my Colleagues did not wish. As I entered my cabin my PA said, '' Happy B'day Boss !!''. I felt special. She askd me 4 lunch. After lunch she invited me to her apartment. We went there. She said,'' do u mind if I go into the bedroom for a minute ? '' ''OK'', I sed in a sexy mood. She came out 5 minuts latr wid a cake...n My Wife, My Parents, My Kidz, My Friends n My Colleagues. All screaming.. SURPRISE !! and I was waiting on the sofa.. ... ..... ' NAKED...!"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Ok thanx... Take care then...""
+
+Label:
+ham",ham,Ok thanx... Take care then...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""K:)eng rocking in ashes:)""
+
+Label:
+ham",ham,K:)eng rocking in ashes:)
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""I'm home...""
+
+Label:
+ham",ham,I'm home...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine \KUDI\""yarasu dhina vaazhthukkal. ..""""
+
+Label:
+ham",ham,"wiskey Brandy Rum Gin Beer Vodka Scotch Shampain Wine \KUDI\""yarasu dhina vaazhthukkal. .."""
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Now thats going to ruin your thesis!""
+
+Label:
+ham",ham,Now thats going to ruin your thesis!
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Lemme know when you're here""
+
+Label:
+ham",ham,Lemme know when you're here
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""1Apple/Day=No Doctor. 1Tulsi Leaf/Day=No Cancer. 1Lemon/Day=No Fat. 1Cup Milk/day=No Bone Problms 3 Litres Watr/Day=No Diseases Snd ths 2 Whom U Care..:-)""
+
+Label:
+ham",ham,1Apple/Day=No Doctor. 1Tulsi Leaf/Day=No Cancer. 1Lemon/Day=No Fat. 1Cup Milk/day=No Bone Problms 3 Litres Watr/Day=No Diseases Snd ths 2 Whom U Care..:-)
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""yay! finally lol. i missed our cinema trip last week :-(""
+
+Label:
+ham",ham,yay! finally lol. i missed our cinema trip last week :-(
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""How did you find out in a way that didn't include all of these details""
+
+Label:
+ham",ham,How did you find out in a way that didn't include all of these details
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Great. Hope you are using your connections from mode men also cos you can never know why old friends can lead you to today""
+
+Label:
+ham",ham,Great. Hope you are using your connections from mode men also cos you can never know why old friends can lead you to today
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""For fear of fainting with the of all that housework you just did? Quick have a cuppa""
+
+Label:
+ham",ham,For fear of fainting with the of all that housework you just did? Quick have a cuppa
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Am I the only one who doesn't stalk profiles?""
+
+Label:
+ham",ham,Am I the only one who doesn't stalk profiles?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Aiyar u so poor thing... I give u my support k... Jia you! I'll think of u...""
+
+Label:
+ham",ham,Aiyar u so poor thing... I give u my support k... Jia you! I'll think of u...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Okie... Thanx...""
+
+Label:
+ham",ham,Okie... Thanx...
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Sorry, I'll call later""
+
+Label:
+ham",ham,"Sorry, I'll call later"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Mum say we wan to go then go... Then she can shun bian watch da glass exhibition... ""
+
+Label:
+ham",ham,Mum say we wan to go then go... Then she can shun bian watch da glass exhibition... 
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Did you say bold, then torch later. Or one torch and 2bold?""
+
+Label:
+ham",ham,"Did you say bold, then torch later. Or one torch and 2bold?"
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Not yet chikku..wat abt u?""
+
+Label:
+ham",ham,Not yet chikku..wat abt u?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""What was she looking for?""
+
+Label:
+ham",ham,What was she looking for?
+"Instruction:
+Classify the following SMS message as either ""spam"" or ""ham"" (not spam).
+
+Message:
+""Shopping? Eh ger i toking abt syd leh...Haha""
+
+Label:
+ham",ham,Shopping? Eh ger i toking abt syd leh...Haha
